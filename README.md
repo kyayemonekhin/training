@@ -1,4 +1,5 @@
 # training
 
-add new line
-This is training git.
+①add new line 1
+②add new line 2
+③add new line 3
